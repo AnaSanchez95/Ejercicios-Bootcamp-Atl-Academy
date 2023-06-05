@@ -1,16 +1,7 @@
-{
-  "1": {
+ {
     "category": "Geografía",
     "question": "¿Cuál es el río más largo de la Península Ibérica?",
     "options": ["Tajo", "Ebro", "Guadiana"],
     "answer": 0,
     "explanation": "El Tajo tiene una longitud de 1.007 km."
-  },
-  "2": {
-    "category": "Geografía",
-    "question": "¿Cuantos países hay en el mundo?",
-    "options": [185, 195, 190],
-    "answer": 1,
-    "explanation": "En el mundo hay 195 países."
   }
-}
