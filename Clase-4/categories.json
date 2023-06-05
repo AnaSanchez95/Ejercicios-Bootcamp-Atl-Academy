@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con los países, rios, montañas y geografía en general"
+  },
+  {
+    "category": "Arte y literatura",
+    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística y literaria"
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Entretenimiento",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine y el entretenimiento"
+  },
+  {
+    "category": "Ciencias y naturaleza",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos"
+  },
+  {
+    "category": "Deportes y pasatiempo",
+    "description": "Preguntas relacionadas con deportistas, deporte y otras formas de pasatiempo."
+  }
+]
