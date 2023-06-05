@@ -1,7 +1,16 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "1": {
+    "category": "Geografía",
+    "question": "¿Cuál es el río más largo de la Península Ibérica?",
+    "options": ["Tajo", "Ebro", "Guadiana", "Guadalquivir"],
+    "answer": 0,
+    "explanation": "El Tajo tiene una longitud de 1.007 km."
+  },
+  "2": {
+    "category": "Geografía",
+    "question": "¿Cuantos países hay en el mundo?",
+    "options": [185, 195, 190, 175],
+    "answer": 1,
+    "explanation": "En el mundo hay 195 países."
+  }
 }
