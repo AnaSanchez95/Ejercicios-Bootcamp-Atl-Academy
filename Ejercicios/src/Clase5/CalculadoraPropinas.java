@@ -1,3 +1,5 @@
+package Clase5;
+
 import java.util.Scanner;
 
 public class CalculadoraPropinas {
