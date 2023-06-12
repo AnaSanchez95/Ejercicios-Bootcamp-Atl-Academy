@@ -1,0 +1,7 @@
+ {
+    "category": "Geografía",
+    "question": "¿Cuál es el río más largo de la Península Ibérica?",
+    "options": ["Tajo", "Ebro", "Guadiana"],
+    "answer": 0,
+    "explanation": "El Tajo tiene una longitud de 1.007 km."
+  }
