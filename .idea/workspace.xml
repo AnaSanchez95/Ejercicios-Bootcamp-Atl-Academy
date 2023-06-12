@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17334c9b-597f-40e6-9665-e2eae75e68a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicios/src/Clase7/Ejercicios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-4/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase4/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-4/question.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase4/question.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/Clase-5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/Clase-5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/src/AdivinarNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase5/AdivinarNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/src/CalculadoraDescuento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase5/CalculadoraDescuento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/src/CalculadoraEdadPerros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase5/CalculadoraEdadPerros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/src/CalculadoraPropinas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase5/CalculadoraPropinas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase-5/src/ConversorMillasKilometros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/src/Clase5/ConversorMillasKilometros.java" afterDir="false" />
-    </list>
+    <list default="true" id="17334c9b-597f-40e6-9665-e2eae75e68a9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +55,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anafe\Desktop\git_hub\Ejercicios-Bootcamp-Atl-Academy\Ejercicios\src\Clase4" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
