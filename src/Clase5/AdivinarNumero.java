@@ -8,7 +8,6 @@ public class AdivinarNumero {
 
         Integer randomNumber = Integer.valueOf((int) Math.round(Math.random() * 100));
 
-
         while (true) {
             System.out.print("Adivine el número del 1 al 100: ");
             Integer number = scanner.nextInt();
@@ -20,7 +19,7 @@ public class AdivinarNumero {
             } else {
                 System.out.println("!Tu número es más alto, prueba otra vez!");
             }
-        };
+        }
     }
 }
 
